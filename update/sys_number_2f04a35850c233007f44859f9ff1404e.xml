@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_cdltd_linking_table">x_cdltd_linking_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LIN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 12:07:44</sys_created_on>
+        <sys_id>2f04a35850c233007f44859f9ff1404e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LIN</sys_name>
+        <sys_package display_value="Linking" source="x_cdltd_linking">5304ef1850c233007f44859f9ff1400a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Linking">5304ef1850c233007f44859f9ff1400a</sys_scope>
+        <sys_update_name>sys_number_2f04a35850c233007f44859f9ff1404e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 12:07:44</sys_updated_on>
+    </sys_number>
+</record_update>
